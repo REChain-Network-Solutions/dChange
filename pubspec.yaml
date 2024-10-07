@@ -30,7 +30,7 @@ dependencies:
   get: 4.6.6
   flutter_screenutil: ^5.5.3+2
   google_fonts: 6.1.0
-  font_awesome_flutter: 10.6.0
+  font_awesome_flutter: 10.7.0
   country_code_picker: ^3.0.0
   material_design_icons_flutter: 7.0.7296
   get_storage: ^2.0.3
