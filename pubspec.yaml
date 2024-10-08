@@ -43,7 +43,7 @@ dependencies:
   flutter_animate: 4.3.0
   progress_state_button: ^1.0.4
   flutter_staggered_animations: ^1.1.1
-  connectivity_plus: 5.0.2
+  connectivity_plus: 6.0.3
   flip_card: ^0.7.0
   patterns_canvas: ^0.4.0
   flutter_inappwebview: 5.8.0
