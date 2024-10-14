@@ -46,7 +46,7 @@ dependencies:
   connectivity_plus: 6.0.3
   flip_card: ^0.7.0
   patterns_canvas: ^0.4.0
-  flutter_inappwebview: 5.8.0
+  flutter_inappwebview: 6.0.0
   flutter_slidable: 3.0.1
   share_plus: ^4.1.0
   flutter_html: ^3.0.0-alpha.5
