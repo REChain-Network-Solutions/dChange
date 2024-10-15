@@ -34,10 +34,10 @@ dependencies:
   country_code_picker: ^3.0.0
   material_design_icons_flutter: 7.0.7296
   get_storage: ^2.0.3
-  logger: 2.0.2+1
+  logger: 2.4.0
   pin_code_fields: 8.0.1
   intl: ^0.18.0
-  image_picker: 1.0.4
+  image_picker: 1.0.8
   dotted_line: ^3.1.0
   flutter_svg:
   flutter_animate: 4.3.0
@@ -45,9 +45,9 @@ dependencies:
   flutter_staggered_animations: ^1.1.1
   connectivity_plus: 6.0.3
   flip_card: ^0.7.0
-  patterns_canvas: ^0.4.0
-  flutter_inappwebview: 5.8.0
-  flutter_slidable: 3.0.1
+  patterns_canvas: ^0.5.0
+  flutter_inappwebview: 6.0.0
+  flutter_slidable: 3.1.1
   share_plus: ^4.1.0
   flutter_html: ^3.0.0-alpha.5
   uni_links: ^0.5.1
