@@ -40,7 +40,7 @@ dependencies:
   image_picker: 1.0.8
   dotted_line: ^3.1.0
   flutter_svg:
-  flutter_animate: 4.3.0
+  flutter_animate: 4.5.0
   progress_state_button: ^1.0.4
   flutter_staggered_animations: ^1.1.1
   connectivity_plus: 6.0.3
